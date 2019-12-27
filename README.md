@@ -62,12 +62,12 @@ Switch ✅
 |-----|----------------|-------|
 |SW1|SPST miniature power switch|https://octopart.com/v-15-2c26-k-omron-7842320?r=sp&s=oYa-jL-4S7urC4WXpKrv7w# |
 
-Connectors
+Connectors ✅
 ----------
 |##'s |Part Description|Link(s)|
 |-----|----------------|-------|
-|J1|Insulated ¼-inch phone jack (Switchcraft N-1 11 or equivalent)|**N/A**|
-|J2|3.5 mm phone jack (Switchcraft 41 or equivalent)|**N/A**|
+|J1|Insulated ¼-inch phone jack (Switchcraft N-1 11 or equivalent)|https://octopart.com/11-switchcraft-7776?r=sp&s=xvzABdQYR3KvbPuX-DWT7A |
+|J2|3.5 mm phone jack (Switchcraft 41 or equivalent)|https://octopart.com/41-switchcraft-8653?r=sp&s=3omt4EyQSQiTEQxwMWtBrA |
 
 Parts Not on Schematic
 ----------------------
