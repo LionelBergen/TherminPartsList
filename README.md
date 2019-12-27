@@ -1,7 +1,7 @@
 # TherminPartsList
 
 
-Integrated Circuits
+Integrated Circuits ✅
 -------------------
 |##'s|Part Description|Link(s)|
 |----|----------------|-------|
