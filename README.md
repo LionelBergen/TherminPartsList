@@ -62,6 +62,28 @@ Switch
 |-----|----------------|-------|
 |SW1|SPST miniature power switch|**N/A**|
 
+Connectors
+----------
+|##'s |Part Description|Link(s)|
+|-----|----------------|-------|
+|J1|Insulated ¼-inch phone jack (Switchcraft N-1 11 or equivalent)|**N/A**|
+|J2|3.5 mm phone jack (Switchcraft 41 or equivalent)|**N/A**|
+
+Parts Not on Schematic
+----------------------
+|Part Description|Link(s)|
+|----------------|-------|
+|16-pin IC socket for U3|**N/A**|
+|Connector set with at least ten conductors for connections between the main circuit board and front panel|**N/A**|
+|Wall-wart transformer to provide 12 to 15 ILIAC with at least 200 mA (Cui-Stack DPA120020-P1-SZ)|**N/A**|
+|Two large knobs for PC and P2|**N/A**|
+|Two small knobs for P3 and P4|**N/A**|
+|Two 24- to 36-inch x 3/8-inch straight copper tubes for antennas|**N/A**|
+|Tube bender for volume antenna|**N/A**|
+|Atlas AD-11 B microphone-stand mounting flange|**N/A**|
+|10-inch x 4-inch prototyping circuit board|**N/A**|
+|Two 4-inch x 3-inch prototyping boards for the antenna circuits|**N/A**|
+
 Resistors (¼W, 5%, metal or carbon film)
 ----------------------------------------
 |##'s |Part Description|
