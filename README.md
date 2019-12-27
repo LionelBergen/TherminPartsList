@@ -53,8 +53,8 @@ Potentiometers
 --------------
 |##'s |Part Description|Link(s)|
 |-----|----------------|-------|
-|P1, P2| 5 kΩ linear taper, cermet or conductive plastic (Clarostat 53C1-5K or equivalent)|**N/A**|
-|P3 P4|50 kΩ linear taper|**N/A**|
+|P1, P2| 5 kΩ linear taper, cermet or conductive plastic (Clarostat 53C1-5K or equivalent)|https://www.aliexpress.com/item/32947770616.html|
+|P3 P4|50 kΩ linear taper|https://www.aliexpress.com/item/32947770616.html |
 
 Switch
 ------
