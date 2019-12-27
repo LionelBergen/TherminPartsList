@@ -5,7 +5,7 @@ Integrated Circuits
 -------------------
 |##'s|Part Description|Link(s)|
 |----|----------------|-------|
-|U1|LM781L12 12V positive regulator|**N/A**|
+|U1|LM781L12 12V positive regulator|https://www.aliexpress.com/item/32393770100.html |
 |U2|LM79L12 12V negative regulator |**N/A**|
 |U3|LM1360ON dual operational transcondance amplifier (National Semiconductor)|**N/A**|
 
@@ -84,7 +84,7 @@ Parts Not on Schematic
 |10-inch x 4-inch prototyping circuit board|**N/A**|
 |Two 4-inch x 3-inch prototyping boards for the antenna circuits|**N/A**|
 
-Resistors (¼W, 5%, metal or carbon film)
+Resistors (¼W, 5%, metal or carbon film) ✅
 ----------------------------------------
 |##'s |Part Description|
 |-----|----------------|
