@@ -37,7 +37,7 @@ Capacitors
 |C19, C20|2,200 µF/35V aluminum electrolytic|**N/A**|
 |C21, C22, C27|0.1 µF/5OV ceramic|**N/A**|
 |C23|4,700 pF/50V, 10%, ceramic|**N/A**|
-|C24|3,300 pF/50V, 10%, ceramic|**N/A**|
+|C24|3,300 pF/50V, 10%, ceramic|https://octopart.com/c315c332k5r5ta-kemet-146309?r=sp&s=XRgAQgiTSryZ-bdOKVaWlA |
 
 Inductors
 ---------
