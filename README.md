@@ -47,7 +47,7 @@ Inductors
 |L5, L6|100 pH, hi-Q, variable inductor (Toko RWRS-T1015Z)|**N/A**|
 |L7, L8|2.5 mH, 3-section, RIF choke (J. W. M i ller #6302)|**N/A**|
 |L9, L10|5 mH, 3-section, RF choke (J. W. Miller #6304)|**N/A**|
-|L11|68 µH, hi-Q, variable inductor (Toko 154ANS-T1019Z)|**N/A**|
+|L11|68 µH, hi-Q, variable inductor (Toko 154ANS-T1019Z)|https://octopart.com/154ans-t1019z-toko-382315?r=sp&s=zeDgzdLbR9Wk8VftBZvrgA <br /> https://octopart.com/a119ans-t1036z-toko-382411?r=sp&s=yzjUpdhcRwOXsoEl1GmBug | One link is an exact match, but 5x price of other
 
 Potentiometers
 --------------
