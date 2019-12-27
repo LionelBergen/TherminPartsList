@@ -35,8 +35,8 @@ Capacitors
 |C12|1,000 pF/50V, 10%, ceramic|**N/A**|
 |C14|2,200 pF/50V, 5%, polypropylene or polystyrene|**N/A**|
 |C19, C20|2,200 µF/35V aluminum electrolytic|**N/A**|
-|C21, C22, C27|0.1 µF/5OV ceramic|**N/A**|
-|C23|4,700 pF/50V, 10%, ceramic|**N/A**|
+|C21, C22, C27|0.1 µF/5OV ceramic|https://octopart.com/c320c104k5r5ta-kemet-39420400?r=sp&s=vpr2dxoYTbWUl1DyFpSeAw |
+|C23|4,700 pF/50V, 10%, ceramic|https://octopart.com/c315c472k1r5ta-kemet-88120?r=sp&s=ZqYjVIj3Tbm7fLsQmNzUDw |
 |C24|3,300 pF/50V, 10%, ceramic|https://octopart.com/c315c332k5r5ta-kemet-146309?r=sp&s=XRgAQgiTSryZ-bdOKVaWlA |
 
 Inductors
