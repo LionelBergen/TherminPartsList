@@ -19,8 +19,8 @@ Diodes
 ------
 |##'s |Part Description|Link(s)|LINK NOTES|
 |-----|----------------|-------|-----|
-|D1,D4,D5|1N4148 signal diode|https://www.aliexpress.com/item/32875591429.html ||
-|D2, D3|1N4001 power diode|https://www.aliexpress.com/item/32903901273.html |RECTIFIER, not POWER|
+|D1,D4,D5|1N4148 signal diode|https://www.aliexpress.com/item/32875591429.html <br/> https://octopart.com/1n4148-on+semiconductor-6807167?r=sp&s=FphRHwmWSia1VFYlXdB2zw ||
+|D2, D3|1N4001 power diode|https://www.aliexpress.com/item/32903901273.html <br/> https://octopart.com/1n4001-tp-mcc-730241?r=sp&s=ZT2SdTTNTBmFwDmlvhlzUQ |RECTIFIER, not POWER|
 
 Capacitors
 ----------
