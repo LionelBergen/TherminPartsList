@@ -5,9 +5,9 @@ Integrated Circuits
 -------------------
 |##'s|Part Description|Link(s)|
 |----|----------------|-------|
-|U1|LM781L12 12V positive regulator|https://www.aliexpress.com/item/32393770100.html |
-|U2|LM79L12 12V negative regulator |**N/A**|
-|U3|LM1360ON dual operational transcondance amplifier (National Semiconductor)|**N/A**|
+|U1|LM781L12 12V positive regulator|https://www.aliexpress.com/item/32393770100.html https://octopart.com/lm78l12acz-texas+instruments-9341714?r=sp&s=_2hVQMYsQ_qiNDtutIaoXw |
+|U2|LM79L12 12V negative regulator |https://octopart.com/lm79l12acz-texas+instruments-23069?r=sp&s=wBSU0pbeQ7C6cufglLykmw |
+|U3|LM13600N dual operational transcondance amplifier (National Semiconductor)|https://octopart.com/lm13600n-texas+instruments-492502?r=sp&s=CTbbkF33Rsu-yFpaKZLu2w |
 
 Transistors
 -----------
