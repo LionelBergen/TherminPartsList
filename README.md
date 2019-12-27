@@ -9,11 +9,11 @@ Integrated Circuits ✅
 |U2|LM79L12 12V negative regulator |https://octopart.com/lm79l12acz-texas+instruments-23069?r=sp&s=wBSU0pbeQ7C6cufglLykmw |
 |U3|LM13600N dual operational transcondance amplifier (National Semiconductor)|https://octopart.com/lm13600n-texas+instruments-492502?r=sp&s=CTbbkF33Rsu-yFpaKZLu2w |
 
-Transistors
+Transistors ✅
 -----------
 |##'s |Part Description|Link(s)|
 |-----|----------------|-------|
-|Q1-Q8|2N3904 NPN|https://www.aliexpress.com/item/32811041797.html |
+|Q1-Q8|2N3904 NPN|https://www.aliexpress.com/item/32811041797.html <br/> https://octopart.com/2n3904tfr-on+semiconductor-84408863?r=sp&s=pVEy6CPkQO6nmfUrKR2A7w|
 
 Diodes
 ------
