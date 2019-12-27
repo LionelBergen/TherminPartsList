@@ -41,9 +41,9 @@ Capacitors
 
 Inductors
 ---------
-|##'s |Part Description|Link(s)|
-|-----|----------------|-------|
-|L1, L2, L3, L4|10 mH, 3-section, RIF choke (J. W. Miller #6306)|**N/A**|
+|##'s |Part Description|Link(s)|Link Notes|
+|-----|----------------|-------|----------|
+|L1, L2, L3, L4|10 mH, 3-section, RIF choke (J. W. Miller #6306)|https://octopart.com/6306-bourns+-+j.w.+miller-388803?r=sp&s=WU9aw3vDR3CsxeCchP9b2w |Looks hard to buy (Call for quote?)|
 |L5, L6|100 pH, hi-Q, variable inductor (Toko RWRS-T1015Z)|**N/A**|
 |L7, L8|2.5 mH, 3-section, RIF choke (J. W. M i ller #6302)|**N/A**|
 |L9, L10|5 mH, 3-section, RF choke (J. W. Miller #6304)|**N/A**|
