@@ -53,8 +53,8 @@ Potentiometers
 --------------
 |##'s |Part Description|Link(s)|
 |-----|----------------|-------|
-|P1, P2| 5 kΩ linear taper, cermet or conductive plastic (Clarostat 53C1-5K or equivalent)|https://www.aliexpress.com/item/32947770616.html|
-|P3 P4|50 kΩ linear taper|https://www.aliexpress.com/item/32947770616.html |
+|P1, P2| 5 kΩ linear taper, cermet or conductive plastic (Clarostat 53C1-5K or equivalent)|https://www.aliexpress.com/item/32947770616.html <br/> https://octopart.com/rls5r0e-ohmite-974353?r=sp&s=78sZSvgBRd2gcPgjJ3hWrA |
+|P3 P4|50 kΩ linear taper|https://www.aliexpress.com/item/32947770616.html <br/> https://octopart.com/53c350-honeywell-46565059?r=sp&s=AGp7VQSqTEynXy4uhnCZrA |
 
 Switch ✅
 ------
