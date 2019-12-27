@@ -56,11 +56,11 @@ Potentiometers
 |P1, P2| 5 kΩ linear taper, cermet or conductive plastic (Clarostat 53C1-5K or equivalent)|https://www.aliexpress.com/item/32947770616.html|
 |P3 P4|50 kΩ linear taper|https://www.aliexpress.com/item/32947770616.html |
 
-Switch
+Switch ✅
 ------
 |##'s |Part Description|Link(s)|
 |-----|----------------|-------|
-|SW1|SPST miniature power switch|**N/A**|
+|SW1|SPST miniature power switch|https://octopart.com/v-15-2c26-k-omron-7842320?r=sp&s=oYa-jL-4S7urC4WXpKrv7w# |
 
 Connectors
 ----------
