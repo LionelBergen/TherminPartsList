@@ -33,7 +33,7 @@ Capacitors
 |C13, C17, CI8, C25|1.0 µF/35V tantalum|https://octopart.com/t491a105k035at-kemet-86744?r=sp&s=zxH8t0lJQVOFTjgEkiqwDg | 10% tolerance. Not sure what is required|
 |C9| 33 pF/50V, 5%, NPO (zero temperature coefficient) ceramic|https://www.digikey.com/product-detail/en/yageo/CC0805JRNPO9BN330/311-1105-1-ND/303015 <br /> |
 |C12|1,000 pF/50V, 10%, ceramic|https://octopart.com/c0603c102k5ractu-kemet-144878?r=sp&s=k16XhPxLS8SRh6NDtzNr-Q <br /> https://octopart.com/c0402c102k5ractu-kemet-100678?r=sp&s=k16XhPxLS8SRh6NDtzNr-Q |
-|C14|2,200 pF/50V, 5%, polypropylene or polystyrene|**N/A**|
+|C14|2,200 pF/50V, 5%, polypropylene or polystyrene|https://octopart.com/phe850ea4220ma01r17-kemet-8199230?r=sp&s=sUv0tyabThq0AkzwZc8bOQ |
 |C19, C20|2,200 µF/35V aluminum electrolytic|https://www.mouser.ca/ProductDetail/United-Chemi-Con/EGXF350ELL222MU25S?qs=sGAEpiMZZMtZ1n0r9vR22VRmzOGR10zUVAIwAE7xD%252B%252BGaGnUxcBo9g%3D%3D <br /> https://canada.newark.com/panasonic/eeu-fc1v222/aluminum-electrolytic-capacitor/dp/82K9806?ost=82K9806&ICID=redirect-Y&CMP=os-geobanner-google&krypto=reI%2FMiBFgn55U4AEQN8fzyndqFUYWxkixQbqIDUQwFwCK3sTk90rCIGWmgpwRKPQPIa16t%2BxqLS5ZBBg%2F3fxEjOclDR6bm6Me3NGO7rsegqjJdEPgmHA7hXkw6wxftDR&ddkey=https%3ASearch|
 |C21, C22, C27|0.1 µF/50V ceramic|https://octopart.com/c320c104k5r5ta-kemet-39420400?r=sp&s=vpr2dxoYTbWUl1DyFpSeAw |
 |C23|4,700 pF/50V, 10%, ceramic|https://octopart.com/c315c472k1r5ta-kemet-88120?r=sp&s=ZqYjVIj3Tbm7fLsQmNzUDw |
