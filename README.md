@@ -44,9 +44,9 @@ Inductors
 |##'s |Part Description|Link(s)|Link Notes|
 |-----|----------------|-------|----------|
 |L1, L2, L3, L4|10 mH, 3-section, RIF choke (J. W. Miller #6306)|https://octopart.com/6306-bourns+-+j.w.+miller-388803?r=sp&s=WU9aw3vDR3CsxeCchP9b2w |Looks hard to buy (Call for quote?)|
-|L5, L6|100 pH, hi-Q, variable inductor (Toko RWRS-T1015Z)|**N/A**|
-|L7, L8|2.5 mH, 3-section, RIF choke (J. W. M i ller #6302)|**N/A**|
-|L9, L10|5 mH, 3-section, RF choke (J. W. Miller #6304)|**N/A**|
+|L5, L6|100 pH, hi-Q, variable inductor (Toko RWRS-T1015Z)|https://octopart.com/6306-rc-bourns-39677921?r=sp&s=WxhTCulWQ5iiguUc-VgGRg | Need to double check that this will work. Exact one is out of stock|
+|L7, L8|2.5 mH, 3-section, RIF choke (J. W. Miller #6302)|https://octopart.com/6302-rc-bourns-39677000?r=sp&s=ZZmle5z_T0q7fPiSKIjCxQ |Need to double check that this will work. Exact one is out of stock|
+|L9, L10|5 mH, 3-section, RF choke (J. W. Miller #6304)|https://octopart.com/search?q=6304%20miller |
 |L11|68 µH, hi-Q, variable inductor (Toko 154ANS-T1019Z)|https://octopart.com/154ans-t1019z-toko-382315?r=sp&s=zeDgzdLbR9Wk8VftBZvrgA <br /> https://octopart.com/a119ans-t1036z-toko-382411?r=sp&s=yzjUpdhcRwOXsoEl1GmBug | One link is an exact match, but 5x price of other
 
 Potentiometers
