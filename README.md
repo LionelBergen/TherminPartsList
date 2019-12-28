@@ -24,15 +24,15 @@ Diodes
 
 Capacitors
 ----------
-|##'s |Part Description|Link(s)|
-|-----|----------------|-------|
+|##'s |Part Description|Link(s)|Link notes|
+|-----|----------------|-------|----------|
 |C I, C5|3,900 pF/50V, 5%, polypropylene or polystyrene|**N/A**|
 |C2 C6, C 16|22 pF/50V, 5%, NPO (zero temperature coefficient) ceramic|**N/A**|
 |C3, C7, C15, C26|0.01 µF/50V, 10%, polyester|**N/A**|
 |C4, C8, C1O, C11|1.0 µF/35V tantalum|**N/A**|
-|C13, C17, CI8, C25|1.0 µF/35V tantalum|**N/A**|
+|C13, C17, CI8, C25|1.0 µF/35V tantalum|https://octopart.com/t491a105k035at-kemet-86744?r=sp&s=zxH8t0lJQVOFTjgEkiqwDg | 10% tolerance. Not sure what is required|
 |C9| 33 µF/50V, 5%, NPO (zero temperature coefficient) ceramic|**N/A**|
-|C12|1,000 pF/50V, 10%, ceramic|**N/A**|
+|C12|1,000 pF/50V, 10%, ceramic|https://octopart.com/c0603c102k5ractu-kemet-144878?r=sp&s=k16XhPxLS8SRh6NDtzNr-Q <br /> https://octopart.com/c0402c102k5ractu-kemet-100678?r=sp&s=k16XhPxLS8SRh6NDtzNr-Q |
 |C14|2,200 pF/50V, 5%, polypropylene or polystyrene|**N/A**|
 |C19, C20|2,200 µF/35V aluminum electrolytic|**N/A**|
 |C21, C22, C27|0.1 µF/5OV ceramic|https://octopart.com/c320c104k5r5ta-kemet-39420400?r=sp&s=vpr2dxoYTbWUl1DyFpSeAw |
