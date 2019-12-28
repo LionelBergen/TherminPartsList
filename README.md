@@ -29,7 +29,7 @@ Capacitors
 |C I, C5|3,900 pF/50V, 5%, polypropylene or polystyrene|**N/A**|
 |C2 C6, C 16|22 pF/50V, 5%, NPO (zero temperature coefficient) ceramic|**N/A**|
 |C3, C7, C15, C26|0.01 µF/50V, 10%, polyester|**N/A**|
-|C4, C8, C1O, C11|1.0 µF/35V tantalum|**N/A**|
+|C4, C8, C1O, C11|1.0 µF/35V tantalum|https://octopart.com/t491a105k035at-kemet-86744?r=sp&s=zxH8t0lJQVOFTjgEkiqwDg | No tolerance listed. Also same as below?|
 |C13, C17, CI8, C25|1.0 µF/35V tantalum|https://octopart.com/t491a105k035at-kemet-86744?r=sp&s=zxH8t0lJQVOFTjgEkiqwDg | 10% tolerance. Not sure what is required|
 |C9| 33 µF/50V, 5%, NPO (zero temperature coefficient) ceramic|**N/A**|
 |C12|1,000 pF/50V, 10%, ceramic|https://octopart.com/c0603c102k5ractu-kemet-144878?r=sp&s=k16XhPxLS8SRh6NDtzNr-Q <br /> https://octopart.com/c0402c102k5ractu-kemet-100678?r=sp&s=k16XhPxLS8SRh6NDtzNr-Q |
@@ -43,7 +43,7 @@ Inductors
 ---------
 |##'s |Part Description|Link(s)|Link Notes|
 |-----|----------------|-------|----------|
-|L1, L2, L3, L4|10 mH, 3-section, RIF choke (J. W. Miller #6306)|https://octopart.com/6306-bourns+-+j.w.+miller-388803?r=sp&s=WU9aw3vDR3CsxeCchP9b2w |Looks hard to buy (Call for quote?)|
+|L1, L2, L3, L4|10 mH, 3-section, RIF choke (J. W. Miller #6306)|https://octopart.com/6306-rc-bourns-39677921?r=sp&s=YFP17bCqQXWrzKl-ika87g |same as below|
 |L5, L6|100 pH, hi-Q, variable inductor (Toko RWRS-T1015Z)|https://octopart.com/6306-rc-bourns-39677921?r=sp&s=WxhTCulWQ5iiguUc-VgGRg | Need to double check that this will work. Exact one is out of stock|
 |L7, L8|2.5 mH, 3-section, RIF choke (J. W. Miller #6302)|https://octopart.com/6302-rc-bourns-39677000?r=sp&s=ZZmle5z_T0q7fPiSKIjCxQ |Need to double check that this will work. Exact one is out of stock|
 |L9, L10|5 mH, 3-section, RF choke (J. W. Miller #6304)|https://octopart.com/search?q=6304%20miller |
