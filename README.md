@@ -26,12 +26,12 @@ Capacitors
 ----------
 |##'s |Part Description|Link(s)|Link notes|
 |-----|----------------|-------|----------|
-|C1, C5|3,900 pF/50V, 5%, polypropylene or polystyrene|https://www.mouser.ca/ProductDetail/Panasonic/ECW-HA3C392JB?qs=sGAEpiMZZMv1cc3ydrPrFw8Ry1bIy%252BUI8HAW8G%2Fx%2FZ0%3D |
+|C1, C5|3,900 pF/50V, 5%, polypropylene or polystyrene|https://www.mouser.ca/ProductDetail/Panasonic/ECW-HA3C392JB?qs=sGAEpiMZZMv1cc3ydrPrFw8Ry1bIy%252BUI8HAW8G%2Fx%2FZ0%3D <br /> https://www.digikey.com/product-detail/en/nichicon/QYX1H392JTP/493-3450-ND/2117739 |
 |C2 C6, C16|22 pF/50V, 5%, NPO (zero temperature coefficient) ceramic|https://www.digikey.com/product-detail/en/yageo/CC0805JRNPO9BN220/311-1103-1-ND/303013 |
 |C3, C7, C15, C26|0.01 µF/50V, 10%, polyester|https://www.mouser.ca/ProductDetail/KEMET/MMK5103J50J01L165TA18?qs=sGAEpiMZZMv1cc3ydrPrF17gIuUB4mH1cablhX0mZAU%3D |
 |C4, C8, C1O, C11|1.0 µF/35V tantalum|https://octopart.com/t491a105k035at-kemet-86744?r=sp&s=zxH8t0lJQVOFTjgEkiqwDg | No tolerance listed. Also same as below?|
 |C13, C17, CI8, C25|1.0 µF/35V tantalum|https://octopart.com/t491a105k035at-kemet-86744?r=sp&s=zxH8t0lJQVOFTjgEkiqwDg | 10% tolerance. Not sure what is required|
-|C9| 33 µF/50V, 5%, NPO (zero temperature coefficient) ceramic|**N/A**|
+|C9| 33 pF/50V, 5%, NPO (zero temperature coefficient) ceramic|https://www.digikey.com/product-detail/en/yageo/CC0805JRNPO9BN330/311-1105-1-ND/303015 <br /> |
 |C12|1,000 pF/50V, 10%, ceramic|https://octopart.com/c0603c102k5ractu-kemet-144878?r=sp&s=k16XhPxLS8SRh6NDtzNr-Q <br /> https://octopart.com/c0402c102k5ractu-kemet-100678?r=sp&s=k16XhPxLS8SRh6NDtzNr-Q |
 |C14|2,200 pF/50V, 5%, polypropylene or polystyrene|**N/A**|
 |C19, C20|2,200 µF/35V aluminum electrolytic|**N/A**|
