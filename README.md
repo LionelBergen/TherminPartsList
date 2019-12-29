@@ -17,16 +17,16 @@ Transistors ✅
 
 Diodes
 ------
-|##'s |Part Description|Link(s)|LINK NOTES|
-|-----|----------------|-------|-----|
-|D1,D4,D5|1N4148 signal diode|https://www.aliexpress.com/item/32875591429.html <br/> https://octopart.com/1n4148-on+semiconductor-6807167?r=sp&s=FphRHwmWSia1VFYlXdB2zw ||
-|D2, D3|1N4001 power diode|https://www.aliexpress.com/item/32903901273.html <br/> https://octopart.com/1n4001-tp-mcc-730241?r=sp&s=ZT2SdTTNTBmFwDmlvhlzUQ |RECTIFIER, not POWER|
+|##'s |Part Description|Link(s)|
+|-----|----------------|-------|
+|D1,D4,D5|1N4148 signal diode|https://www.aliexpress.com/item/32875591429.html <br/> https://octopart.com/1n4148-on+semiconductor-6807167?r=sp&s=FphRHwmWSia1VFYlXdB2zw |
+|D2, D3|1N4001 power diode|https://www.aliexpress.com/item/32903901273.html <br/> https://octopart.com/1n4001-tp-mcc-730241?r=sp&s=ZT2SdTTNTBmFwDmlvhlzUQ |
 
 Capacitors
 ----------
 |##'s |Part Description|Link(s)|Link notes|
 |-----|----------------|-------|----------|
-|C1, C5|3,900 pF/50V, 5%, polypropylene or polystyrene|https://www.mouser.ca/ProductDetail/Panasonic/ECW-HA3C392JB?qs=sGAEpiMZZMv1cc3ydrPrFw8Ry1bIy%252BUI8HAW8G%2Fx%2FZ0%3D <br /> https://www.digikey.com/product-detail/en/nichicon/QYX1H392JTP/493-3450-ND/2117739 |
+|C1, C5|3,900 pF/50V, 5%, polypropylene or polystyrene|https://www.mouser.ca/ProductDetail/Panasonic/ECW-HA3C392JB?qs=sGAEpiMZZMv1cc3ydrPrFw8Ry1bIy%252BUI8HAW8G%2Fx%2FZ0%3D <br /> https://www.digikey.com/product-detail/en/nichicon/QYX1H392JTP/493-3450-ND/2117739 <br /> https://octopart.com/qyx1h392jtp-nichicon-19038404?r=sp&s=WAqNOJ91T2K2ZoacDjKKGQ |
 |C2 C6, C16|22 pF/50V, 5%, NPO (zero temperature coefficient) ceramic|https://www.digikey.com/product-detail/en/yageo/CC0805JRNPO9BN220/311-1103-1-ND/303013 |
 |C3, C7, C15, C26|0.01 µF/50V, 10%, polyester|https://www.mouser.ca/ProductDetail/KEMET/MMK5103J50J01L165TA18?qs=sGAEpiMZZMv1cc3ydrPrF17gIuUB4mH1cablhX0mZAU%3D |
 |C4, C8, C1O, C11|1.0 µF/35V tantalum|https://octopart.com/t491a105k035at-kemet-86744?r=sp&s=zxH8t0lJQVOFTjgEkiqwDg | No tolerance listed. Also same as below?|
