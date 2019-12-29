@@ -15,14 +15,14 @@ Transistors ✅
 |-----|----------------|-------|
 |Q1-Q8|2N3904 NPN|https://www.aliexpress.com/item/32811041797.html <br/> https://octopart.com/2n3904tfr-on+semiconductor-84408863?r=sp&s=pVEy6CPkQO6nmfUrKR2A7w|
 
-Diodes
+Diodes ✅
 ------
 |##'s |Part Description|Link(s)|
 |-----|----------------|-------|
 |D1,D4,D5|1N4148 signal diode|https://www.aliexpress.com/item/32875591429.html <br/> https://octopart.com/1n4148-on+semiconductor-6807167?r=sp&s=FphRHwmWSia1VFYlXdB2zw |
 |D2, D3|1N4001 power diode|https://www.aliexpress.com/item/32903901273.html <br/> https://octopart.com/1n4001-tp-mcc-730241?r=sp&s=ZT2SdTTNTBmFwDmlvhlzUQ |
 
-Capacitors
+Capacitors ✅
 ----------
 |##'s |Part Description|Link(s)|Link notes|
 |-----|----------------|-------|----------|
