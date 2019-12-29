@@ -1,5 +1,6 @@
 # TherminPartsList
 
+*Note: Octopart site may say "Pack of X" or "bag of X amount", this is a bug in Octopart. It's actually the price for 1. <br> Some parts are not through-hole and do not contain a note about it.*
 
 Integrated Circuits ✅
 -------------------
