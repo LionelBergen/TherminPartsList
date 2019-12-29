@@ -29,7 +29,7 @@ Capacitors
 |C1, C5|3,900 pF/50V, 5%, polypropylene or polystyrene|https://www.digikey.com/product-detail/en/nichicon/QYX1H392JTP/493-3450-ND/2117739 <br /> https://octopart.com/qyx1h392jtp-nichicon-19038404?r=sp&s=WAqNOJ91T2K2ZoacDjKKGQ |
 |C2 C6, C16|22 pF/50V, 5%, NPO (zero temperature coefficient) ceramic|https://www.digikey.com/product-detail/en/yageo/CC0805JRNPO9BN220/311-1103-1-ND/303013 <br /> https://octopart.com/cc0805jrnpo9bn220-yageo-42334528?r=sp&s=jyECTKKbRHOS-UgCxgxNkg | SURFACE MOUNT, can't find one for through hole
 |C3, C7, C15, C26|0.01 µF/50V, 10%, polyester|https://octopart.com/qyx1h103ktp-nichicon-971884?r=sp&s=bqLAMk4vTgye1GMIYuUT7w# |
-|C4, C8, C1O, C11|1.0 µF/35V tantalum|https://octopart.com/t491a105k035at-kemet-86744?r=sp&s=zxH8t0lJQVOFTjgEkiqwDg | No tolerance listed. Also same as below?|
+|C4, C8, C1O, C11|1.0 µF/35V tantalum|https://octopart.com/t491a105k035at-kemet-86744?r=sp&s=zxH8t0lJQVOFTjgEkiqwDg <br /> https://octopart.com/taja105k035rnj-avx-1475683?r=sp&s=vj4SCDMuR628bVI5vw8VzA | One link is surface mount, other is through hole. Through hole one is much more expensive |
 |C13, C17, CI8, C25|1.0 µF/35V tantalum|https://octopart.com/t491a105k035at-kemet-86744?r=sp&s=zxH8t0lJQVOFTjgEkiqwDg | 10% tolerance. Not sure what is required|
 |C9| 33 pF/50V, 5%, NPO (zero temperature coefficient) ceramic|https://www.digikey.com/product-detail/en/yageo/CC0805JRNPO9BN330/311-1105-1-ND/303015 <br /> |
 |C12|1,000 pF/50V, 10%, ceramic|https://octopart.com/c0603c102k5ractu-kemet-144878?r=sp&s=k16XhPxLS8SRh6NDtzNr-Q <br /> https://octopart.com/c0402c102k5ractu-kemet-100678?r=sp&s=k16XhPxLS8SRh6NDtzNr-Q |
