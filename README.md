@@ -48,11 +48,11 @@ Inductors
 ---------
 |##'s |Part Description|Link(s)|Link Notes|
 |-----|----------------|-------|----------|
-|L1, L2, L3, L4|10 mH, 3-section, RF choke (J. W. Miller #6306)|https://octopart.com/6306-rc-bourns-39677921?r=sp&s=YFP17bCqQXWrzKl-ika87g |same as below|
-|L5, L6|100 pH, hi-Q, variable inductor (Toko RWRS-T1015Z)|https://octopart.com/6306-rc-bourns-39677921?r=sp&s=WxhTCulWQ5iiguUc-VgGRg | Need to double check that this will work. Exact one is out of stock|
-|L7, L8|2.5 mH, 3-section, RF choke (J. W. Miller #6302)|https://octopart.com/6302-rc-bourns-39677000?r=sp&s=ZZmle5z_T0q7fPiSKIjCxQ |Need to double check that this will work. Exact one is out of stock|
-|L9, L10|5 mH, 3-section, RF choke (J. W. Miller #6304)|https://octopart.com/search?q=6304%20miller |
-|L11|68 µH, hi-Q, variable inductor (Toko 154ANS-T1019Z)|https://octopart.com/154ans-t1019z-toko-382315?r=sp&s=zeDgzdLbR9Wk8VftBZvrgA <br /> https://octopart.com/a119ans-t1036z-toko-382411?r=sp&s=yzjUpdhcRwOXsoEl1GmBug | One link is an exact match, but 5x price of other
+|L1, L2, L3, L4|10 mH, 3-section, RF choke (J. W. Miller #6306)|https://octopart.com/6306-rc-bourns-39677921?r=sp&s=YFP17bCqQXWrzKl-ika87g |out of stock / discontinued |
+|L5, L6|100 pH, hi-Q, variable inductor (Toko RWRS-T1015Z)|https://octopart.com/6306-rc-bourns-39677921?r=sp&s=WxhTCulWQ5iiguUc-VgGRg | out of stock / discontinued |
+|L7, L8|2.5 mH, 3-section, RF choke (J. W. Miller #6302)|https://octopart.com/6302-rc-bourns-39677000?r=sp&s=ZZmle5z_T0q7fPiSKIjCxQ |out of stock / discontinued |
+|L9, L10|5 mH, 3-section, RF choke (J. W. Miller #6304)|https://octopart.com/search?q=6304%20miller | out of stock / discontinued |
+|L11|68 µH, hi-Q, variable inductor (Toko 154ANS-T1019Z)|https://octopart.com/154ans-t1019z-toko-382315?r=sp&s=zeDgzdLbR9Wk8VftBZvrgA <br /> https://octopart.com/a119ans-t1036z-toko-382411?r=sp&s=yzjUpdhcRwOXsoEl1GmBug | out of stock / discontinued 
 
 Potentiometers
 --------------
