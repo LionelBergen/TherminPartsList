@@ -49,9 +49,13 @@ Inductors
 |##'s |Part Description|Link(s)|Link Notes|
 |-----|----------------|-------|----------|
 |L1, L2, L3, L4|10 mH, 3-section, RF choke (J. W. Miller #6306)|https://octopart.com/6306-rc-bourns-39677921?r=sp&s=YFP17bCqQXWrzKl-ika87g <br /> https://octopart.com/rlb0812-103kl-bourns-2084979?r=sp&s=HwSDdwVoRF-ThVz9gHI1Eg |Exact piece is discontinued, included substitute part |
-|L5, L6|100 µH, hi-Q, variable inductor (Toko RWRS-T1015Z)|https://octopart.com/6306-rc-bourns-39677921?r=sp&s=WxhTCulWQ5iiguUc-VgGRg <br /> | Exact out of stock, substitute 80Q, not sure what 'High Q' means |
+
+|L5, L6|100 µH, hi-Q, variable inductor (Toko RWRS-T1015Z)|https://octopart.com/6306-rc-bourns-39677921?r=sp&s=WxhTCulWQ5iiguUc-VgGRg <br /> https://abra-electronics.com/passive-components/chokes-coils-inductors/miscellaneous-en/tk2417100h-variable-inductor-q-80-796khz-radial.html | Exact out of stock, substitute 80Q, not sure what 'High Q' means |
+
 |L7, L8|2.5 mH, 3-section, RF choke (J. W. Miller #6302)|https://octopart.com/6302-rc-bourns-39677000?r=sp&s=ZZmle5z_T0q7fPiSKIjCxQ <br /> https://octopart.com/rc-3-triad+magnetics-84489?r=sp&s=tqQaidOxRgKjRmlNUK3ZyA# |Exact piece is discontinued, included substitute part |
+
 |L9, L10|5 mH, 3-section, RF choke (J. W. Miller #6304)|https://octopart.com/search?q=6304%20miller | out of stock / discontinued |
+
 |L11|68 µH, hi-Q, variable inductor (Toko 154ANS-T1019Z)|https://octopart.com/154ans-t1019z-toko-382315?r=sp&s=zeDgzdLbR9Wk8VftBZvrgA <br /> https://octopart.com/a119ans-t1036z-toko-382411?r=sp&s=yzjUpdhcRwOXsoEl1GmBug | out of stock / discontinued 
 
 Potentiometers
