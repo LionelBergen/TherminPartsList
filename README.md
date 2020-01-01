@@ -48,7 +48,7 @@ Inductors
 ---------
 |##'s |Part Description|Link(s)|Link Notes|
 |-----|----------------|-------|----------|
-|L1, L2, L3, L4|10 mH, 3-section, RF choke (J. W. Miller #6306)|https://octopart.com/6306-rc-bourns-39677921?r=sp&s=YFP17bCqQXWrzKl-ika87g |out of stock / discontinued |
+|L1, L2, L3, L4|10 mH, 3-section, RF choke (J. W. Miller #6306)|https://octopart.com/6306-rc-bourns-39677921?r=sp&s=YFP17bCqQXWrzKl-ika87g <br /> https://octopart.com/rlb0812-103kl-bourns-2084979?r=sp&s=HwSDdwVoRF-ThVz9gHI1Eg |Exact piece is discontinued, included substitute part |
 |L5, L6|100 pH, hi-Q, variable inductor (Toko RWRS-T1015Z)|https://octopart.com/6306-rc-bourns-39677921?r=sp&s=WxhTCulWQ5iiguUc-VgGRg | out of stock / discontinued |
 |L7, L8|2.5 mH, 3-section, RF choke (J. W. Miller #6302)|https://octopart.com/6302-rc-bourns-39677000?r=sp&s=ZZmle5z_T0q7fPiSKIjCxQ <br /> https://octopart.com/rc-3-triad+magnetics-84489?r=sp&s=tqQaidOxRgKjRmlNUK3ZyA# |Exact piece is discontinued, included substitute part |
 |L9, L10|5 mH, 3-section, RF choke (J. W. Miller #6304)|https://octopart.com/search?q=6304%20miller | out of stock / discontinued |
