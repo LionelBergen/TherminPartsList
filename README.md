@@ -86,8 +86,8 @@ Parts Not on Schematic
 |Two 24- to 36-inch x 3/8-inch straight copper tubes for antennas|**N/A**|
 |Tube bender for volume antenna|**N/A**|
 |Atlas AD-11 B microphone-stand mounting flange|**N/A**|
-|10-inch x 4-inch prototyping circuit board|**N/A**|
-|Two 4-inch x 3-inch prototyping boards for the antenna circuits|**N/A**|
+|10-inch x 4-inch prototyping circuit board|https://www.digikey.ca/product-detail/en/twin-industries/7100-410/438-1036-ND/569730 |
+|Two 4-inch x 3-inch prototyping boards for the antenna circuits|https://www.digikey.ca/product-detail/en/sparkfun-electronics/PRT-08619/1568-1203-ND/5673789 |
 
 Resistors (¼W, 5%, metal or carbon film) ✅
 ----------------------------------------
