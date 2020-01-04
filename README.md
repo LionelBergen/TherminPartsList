@@ -42,9 +42,7 @@ Capacitors ✅
 |C23|4,700 pF/50V, 10%, ceramic|https://octopart.com/c315c472k1r5ta-kemet-88120?r=sp&s=ZqYjVIj3Tbm7fLsQmNzUDw |
 |C24|3,300 pF/50V, 10%, ceramic|https://octopart.com/c315c332k5r5ta-kemet-146309?r=sp&s=XRgAQgiTSryZ-bdOKVaWlA |
 
-<h1> Inductors section needs to be updated. The links are broken; out of stock / no longer manufactured. Need to find an alternative to JW Miller </h1>
-
-Inductors
+Inductors ✅
 ---------
 |##'s |Part Description|Link(s)|Link Notes|
 |-----|----------------|-------|----------|
