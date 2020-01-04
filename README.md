@@ -63,7 +63,7 @@ Switch ✅
 ------
 |##'s |Part Description|Link(s)|
 |-----|----------------|-------|
-|SW1|SPST miniature power switch|https://octopart.com/v-15-2c26-k-omron-7842320?r=sp&s=oYa-jL-4S7urC4WXpKrv7w# |
+|SW1|SPST miniature power switch|https://octopart.com/v-15-2c26-k-omron-7842320?r=sp&s=oYa-jL-4S7urC4WXpKrv7w# <br /> https://www.parts-express.com/spst-mini-toggle-switch--060-510 |
 
 Connectors ✅
 ----------
