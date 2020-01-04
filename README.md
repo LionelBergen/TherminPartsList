@@ -76,11 +76,11 @@ Connectors ✅
 
 Parts Not on Schematic
 ----------------------
-|Part Description|Link(s)|
-|----------------|-------|
-|16-pin IC socket for U3|**N/A**|
+|Part Description|Link(s)|Link notes|
+|----------------|-------|----------|
+|16-pin IC socket for U3|https://www.digikey.ca/product-detail/en/adam-tech/PLCC-44-AT-SMT/2057-PLCC-44-AT-SMT-ND/9829298 |
 |Connector set with at least ten conductors for connections between the main circuit board and front panel|**N/A**|
-|Wall-wart transformer to provide 12 to 15 ILIAC with at least 200 mA (Cui-Stack DPA120020-P1-SZ)|**N/A**|
+|Wall-wart transformer to provide 12 to 15 ILIAC with at least 200 mA (Cui-Stack DPA120020-P1-SZ)|https://www.jameco.com/webapp/wcs/stores/servlet/ProductDisplay?storeId=10001&langId=-1&catalogId=10001&productId=252824 | Not sure if this is right |
 |Two large knobs for PC and P2|**N/A**|
 |Two small knobs for P3 and P4|**N/A**|
 |Two 24- to 36-inch x 3/8-inch straight copper tubes for antennas|**N/A**|
