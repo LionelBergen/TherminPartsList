@@ -72,7 +72,7 @@ Connectors ✅
 |##'s |Part Description|Link(s)|
 |-----|----------------|-------|
 |J1|Insulated ¼-inch phone jack (Switchcraft N-1 11 or equivalent)|https://octopart.com/11-switchcraft-7776?r=sp&s=xvzABdQYR3KvbPuX-DWT7A  <br /> https://www.parts-express.com/switchcraft-11-1-4-mono-jack-with-nut-washer--093-104 |
-|J2|3.5 mm phone jack (Switchcraft 41 or equivalent)|https://octopart.com/41-switchcraft-8653?r=sp&s=3omt4EyQSQiTEQxwMWtBrA <br /> https://www.arrow.com/en/products/41/switchcraft?utm_campaign=octopart_2018&utm_currency=CAD&utm_keyword=41&utm_medium=aggregator&utm_content=inv_listing&utm_source=octopart |
+|J2|3.5 mm phone jack (Switchcraft 41 or equivalent)|https://octopart.com/41-switchcraft-8653?r=sp&s=3omt4EyQSQiTEQxwMWtBrA <br /> https://www.arrow.com/en/products/41/switchcraft |
 
 Parts Not on Schematic
 ----------------------
