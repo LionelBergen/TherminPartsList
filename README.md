@@ -58,7 +58,7 @@ Potentiometers
 --------------
 |##'s |Part Description|Link(s)|
 |-----|----------------|-------|
-|P1, P2| 5 kΩ linear taper, cermet or conductive plastic (Clarostat 53C1-5K or equivalent)|https://www.aliexpress.com/item/32947770616.html <br/> https://octopart.com/rls5r0e-ohmite-974353?r=sp&s=78sZSvgBRd2gcPgjJ3hWrA |
+|P1, P2| 5 kΩ linear taper, cermet or conductive plastic (Clarostat 53C1-5K or equivalent)|https://www.aliexpress.com/item/32947770616.html <br/> https://www.parts-express.com/5k-ohm-potentiometer-1-4-shaft--023-520  |
 |P3 P4|50 kΩ linear taper|https://www.aliexpress.com/item/32947770616.html <br/> https://www.parts-express.com/50k-linear-taper-potentiometer-1-4-shaft--023-632 |
 
 Switch ✅
