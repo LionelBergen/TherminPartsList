@@ -4,6 +4,8 @@ Pdf with schematic & instructions can be <a href="https://www.cs.nmsu.edu/~rth/E
 
 *Note: Octopart site may say "Pack of X" or "bag of X amount", this is a bug in Octopart. It's actually the price for 1. <br> Some parts are not through-hole and do not contain a note about it.*
 
+*Octopart BOM containing most parts: https://octopart.com/bom-tool/vAfIApNe*
+
 Integrated Circuits ✅
 -------------------
 |##'s|Part Description|Link(s)|
